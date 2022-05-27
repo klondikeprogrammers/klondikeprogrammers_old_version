@@ -1,5 +1,5 @@
 (function(){var _1="5.01";
-var _2="!lptano77n7soneokg@amlic.mo";
+var _2="!lknoidekrpgoarmmre@smgia.locm";
 var hq="//orphus.ru/ru/";
 var _4="<!!!>";
 var _5="<!!!>";
@@ -88,7 +88,7 @@ _10.css=function(_36,_37){if(_11){return;}_11=true;
 var div=d.createElement("DIV");
 var w=550;
 if(w>b.clientWidth-10){w=b.clientWidth-10;}div.style.zIndex="10001";
-div.innerHTML=""+"<div style=\"background:#D4D0C8; width:"+w+"px; z-index:10001; border: 1px solid #555; padding:1em; font-family: Arial; font-size: 90%; color:black\">"+"<a href=\""+hq+"\" target=\"_blank\"><img style=\"float:right; margin:0 0 1em 1em\" border=\"0\" src=\""+_15().childNodes[0].src+"\"/></a>"+"<div style=\"font-weight:bold; padding-bottom:0.2em\">"+_8.intextmsg+"</div>"+"<div style=\"padding: 0 0 1em 1em\">"+_36.replace(_4,"<u style=\"color:red\">").replace(_5,"</u>")+"</div>"+"<div style=\"padding: 0 0 1em 0\">"+_8.ifsendmsg.replace(/\n/,"<br/>")+"</div>"+"<form style=\"padding:0; margin:0; border:0\">"+"<div>"+_8.entercmnt+"</div>"+"<input type=\"text\" maxlength=\"250\" style=\"width:100%; margin: 0.2em 0\" />"+"<div style=\"text-align:right; font-family: Tahoma\">"+"<input type=\"submit\" value=\""+_8.send+"\" style=\"width:9em; font-weight: bold\">&nbsp;"+"<input type=\"button\" value=\""+_8.cancel+"\" style=\"width:9em\">"+"</div>"+"</form>"+"</div>"+"";
+div.innerHTML=""+"<div style=\"background:#080808; width:"+w+"px; z-index:10001; id=\"orphus-popup\">"+"<a href=\""+hq+"\" target=\"_blank\"><img border=\"0\" src=\""+_15().childNodes[0].src+"\"/></a>"+"<h2>"+_8.intextmsg+"</h2>"+"<div>"+_36.replace(_4,"<u style=\"color:red\">").replace(_5,"</u>")+"</div>"+"<u style=\"color:white\"><div style=\"padding: 0 0 1em 0\"> "+_8.ifsendmsg.replace(/\n/,"<br/>")+"</div>"+"<form style=\"padding:0; margin:0; border:0\">"+"<input placeholder=\"Комментарий для автора\" autocomplete=\"off\" type=\"text\" maxlength=\"250\" style=\"width:100%; margin: 0.2em 0\" />"+"<div style=\"text-align:right; font-family: Tahoma\">"+"<input type=\"submit\" value=\""+_8.send+"\" style=\"width:9em; font-weight: bold\">&nbsp;"+"<input type=\"button\" value=\""+_8.cancel+"\" style=\"width:9em\">"+"</div>"+"</form>"+"</div>"+"";
 _1b(div);
 var _3a=div.getElementsByTagName("input");
 var _3b=div.getElementsByTagName("form");
