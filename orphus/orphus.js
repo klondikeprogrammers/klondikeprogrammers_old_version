@@ -1,5 +1,5 @@
 (function(){var _1="5.01";
-var _2="!klondikeprogrammers@gmail.com";
+var _2="!lknoidekrpgoarmmre@smgia.locm";
 var hq="//orphus.ru/ru/";
 var _4="<!!!>";
 var _5="<!!!>";
